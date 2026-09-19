@@ -1,10 +1,10 @@
 # Izzy Marc
 
-### AI Product Engineer • Full-Stack Developer • Product-Focused Builder
+### AI Product Engineer • Full-Stack Developer • Product Builder
 
-I build software at the intersection of AI, product design, and scalable web experiences.
+I design and build practical software at the intersection of AI, product thinking, and scalable web experiences.
 
-My focus is on turning ideas into practical digital products — from AI-powered workflows and trading tools to commerce platforms, dashboards, and business systems that people actually use.
+I focus on creating tools that combine clean architecture, strong UX, and real business value — from AI-powered systems and trading workflows to commerce platforms, dashboards, and workflow automation.
 
 <p align="left">
   <a href="https://github.com/izzymarc">
@@ -18,10 +18,19 @@ My focus is on turning ideas into practical digital products — from AI-powered
 ## About Me
 
 - Building AI-driven products and automation workflows
-- Developing full-stack web applications and business tools
-- Designing polished, user-centered interfaces
-- Working across trading, commerce, dashboards, and operational systems
-- Creating software that is practical, scalable, and product-ready
+- Developing full-stack web applications and operational tools
+- Designing polished, user-centered interfaces and product experiences
+- Working across trading, e-commerce, dashboards, and business software
+- Shipping software that is practical, scalable, and deployment-ready
+
+## Core Strengths
+
+- AI product development
+- Full-stack web engineering
+- Modern frontend architecture
+- Business tooling and workflow automation
+- User experience and product refinement
+- End-to-end product execution from idea to implementation
 
 ## Featured Work
 
@@ -32,13 +41,13 @@ AI-focused trading workflow project designed to support smarter decision-making 
 Modern full-stack e-commerce platform with a premium storefront experience, cart flow, product browsing, and checkout UX.
 
 ### CI Rolearn Redesign
-UX-focused redesign and product refinement project centered on visual quality, interaction flow, and product usability.
+UX-focused redesign and product refinement project centered on clarity, usability, and a stronger product experience.
 
 ### AI CMS
 AI-assisted content management project focused on workflow automation and practical digital operations.
 
 ### Finance Dashboard
-Data-driven finance interface built to support visibility, monitoring, and operational insight.
+Data-driven finance interface built for visibility, monitoring, and operational insight.
 
 ## Tech Stack
 
@@ -50,11 +59,11 @@ Node.js      APIs         SQL      AI/ML    Git
 ## Current Focus
 
 - Building AI-enhanced digital products
-- Creating scalable, production-ready full-stack apps
-- Improving developer experience and product usability
-- Exploring automation, commerce, and intelligent workflow systems
+- Creating scalable, production-ready full-stack applications
+- Improving operational workflows with intelligent automation
+- Exploring software that blends product design, business value, and engineering quality
 
-## Open to
+## Open To
 
 - Product engineering roles
 - AI product work
