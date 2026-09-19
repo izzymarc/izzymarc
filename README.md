@@ -1,50 +1,58 @@
-# Hi, I'm Izzy 👋
+# Izzy Marc
 
-### Full-Stack Developer | AI Builder | Product-Focused Engineer
+### Software Engineer • AI Builder • Product-Focused Developer
 
-I design and build practical software at the intersection of AI, web applications, automation, and business tools.
+I build software at the intersection of product thinking, intelligent automation, and scalable web experiences.
 
-My work focuses on turning ideas into reliable, user-friendly products — from AI-powered experiences and full-stack applications to dashboards, e-commerce systems, and workflow automation.
+My work focuses on creating practical tools that combine clean architecture, user-centered design, and real-world business value — from AI-powered applications and dashboards to full-stack products and workflow systems.
 
-## Core Focus
+<p align="left">
+  <a href="https://github.com/izzymarc">
+    <img src="https://img.shields.io/badge/GitHub-@izzymarc-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Available-0A66C2?style=for-the-badge" alt="Portfolio" />
+  </a>
+</p>
 
-- 🤖 AI-powered products and automation
-- 🌐 Full-stack web development
-- 📊 Data-driven dashboards and business tools
-- 🛒 E-commerce and online experiences
-- ⚙️ Developer tooling and workflow optimization
-- 🎨 Clean, modern, user-centered interfaces
+## About Me
 
-## Featured Projects
+- Building AI-driven products and automation workflows
+- Developing full-stack web applications and business tools
+- Designing clean, modern, user-friendly interfaces
+- Working across trading, dashboards, e-commerce, and operational systems
+- Creating software that is practical, scalable, and production-focused
+
+## Featured Work
 
 ### TradeSync
-A trading-focused project built around better workflow support and intelligent financial operations.
+AI-focused trading workflow project designed to improve decision support and operational efficiency.
 
 ### CI Rolearn Redesign
-A TypeScript-based redesign project focused on improving usability, visual quality, and product experience.
+Modern product redesign emphasizing usability, visual clarity, and stronger user experience.
 
 ### AI CMS
-An AI-assisted content management concept built to explore practical automation and smarter workflows.
+AI-assisted content management concept focused on smarter workflows and practical automation.
 
 ### Finance Dashboard
-A finance-oriented dashboard for insights, operations, and data visibility.
+Data-driven finance interface built for visibility, analysis, and operational insight.
 
-### E-commerce
-A full-stack commerce project focused on scalable web application architecture and online shopping experiences.
+### E-commerce Platform
+Full-stack commerce project centered on digital retail experiences and scalable application architecture.
 
-## Technologies
+## Tech Stack
 
 ```text
 TypeScript   JavaScript   Python   React   Next.js
 Node.js      APIs         SQL      AI/ML    Git
 ```
 
-## Current Interests
+## Current Focus
 
-- Building AI-driven products
-- Improving developer and user experience
-- Exploring automation and smart systems
-- Creating scalable, production-ready web apps
+- Building AI-enhanced digital products
+- Improving developer experience and product usability
+- Exploring automation and intelligent workflow systems
+- Creating clean, scalable, production-ready applications
 
 ## Connect
 
@@ -53,4 +61,4 @@ Node.js      APIs         SQL      AI/ML    Git
 
 ---
 
-> Building useful software, one project at a time.
+> Building useful software with a product mindset.
