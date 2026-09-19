@@ -1,17 +1,17 @@
 # Izzy Marc
 
-### Software Engineer • AI Builder • Product-Focused Developer
+### AI Product Engineer • Full-Stack Developer • Product-Focused Builder
 
-I build software at the intersection of product thinking, intelligent automation, and scalable web experiences.
+I build software at the intersection of AI, product design, and scalable web experiences.
 
-My work focuses on creating practical tools that combine clean architecture, user-centered design, and real-world business value — from AI-powered applications and dashboards to full-stack products and workflow systems.
+My focus is on turning ideas into practical digital products — from AI-powered workflows and trading tools to commerce platforms, dashboards, and business systems that people actually use.
 
 <p align="left">
   <a href="https://github.com/izzymarc">
     <img src="https://img.shields.io/badge/GitHub-@izzymarc-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Available-0A66C2?style=for-the-badge" alt="Portfolio" />
+  <a href="mailto:izzymarc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-izzymarc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -19,26 +19,26 @@ My work focuses on creating practical tools that combine clean architecture, use
 
 - Building AI-driven products and automation workflows
 - Developing full-stack web applications and business tools
-- Designing clean, modern, user-friendly interfaces
-- Working across trading, dashboards, e-commerce, and operational systems
-- Creating software that is practical, scalable, and production-focused
+- Designing polished, user-centered interfaces
+- Working across trading, commerce, dashboards, and operational systems
+- Creating software that is practical, scalable, and product-ready
 
 ## Featured Work
 
 ### TradeSync
-AI-focused trading workflow project designed to improve decision support and operational efficiency.
+AI-focused trading workflow project designed to support smarter decision-making and operational efficiency.
+
+### ShopSphere
+Modern full-stack e-commerce platform with a premium storefront experience, cart flow, product browsing, and checkout UX.
 
 ### CI Rolearn Redesign
-Modern product redesign emphasizing usability, visual clarity, and stronger user experience.
+UX-focused redesign and product refinement project centered on visual quality, interaction flow, and product usability.
 
 ### AI CMS
-AI-assisted content management concept focused on smarter workflows and practical automation.
+AI-assisted content management project focused on workflow automation and practical digital operations.
 
 ### Finance Dashboard
-Data-driven finance interface built for visibility, analysis, and operational insight.
-
-### E-commerce Platform
-Full-stack commerce project centered on digital retail experiences and scalable application architecture.
+Data-driven finance interface built to support visibility, monitoring, and operational insight.
 
 ## Tech Stack
 
@@ -50,14 +50,21 @@ Node.js      APIs         SQL      AI/ML    Git
 ## Current Focus
 
 - Building AI-enhanced digital products
+- Creating scalable, production-ready full-stack apps
 - Improving developer experience and product usability
-- Exploring automation and intelligent workflow systems
-- Creating clean, scalable, production-ready applications
+- Exploring automation, commerce, and intelligent workflow systems
+
+## Open to
+
+- Product engineering roles
+- AI product work
+- Full-stack development opportunities
+- Collaboration and consulting projects
 
 ## Connect
 
 - GitHub: [@izzymarc](https://github.com/izzymarc)
-- Portfolio: [Coming soon](#)
+- Email: [izzymarc@gmail.com](mailto:izzymarc@gmail.com)
 
 ---
 
